@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://images.pexels.com/photos/776635/pexels-photo-776635.jpeg?cs=srgb&dl=pexels-nietjuhart-776635.jpg&fm=jpg);
+    background-size: cover;
+    text-align: center;
+    color: indianred;
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+}
+.container{
+    padding:20px;
+    box-shadow: 10px 10px 30 px -20px;
+    border-radius: 20px;
+    margin: auto;
+    border: 3px solid gray;
+    width: 600px;
+}
